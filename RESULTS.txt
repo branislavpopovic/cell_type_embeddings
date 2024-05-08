@@ -1,0 +1,144 @@
+Baseline (22468 features, no autoencoder)
+--------------------------------------------------
+PCA evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.18961734450362414
+Classification Accuracy: 0.672566371681416
+Inter-Cluster Distance: 0.22959323798763628
+Intra-Cluster Distance: 0.09130866161859981
+--------------------------------------------------
+UMAP evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.22488199
+Classification Accuracy: 0.7787610619469026
+Inter-Cluster Distance: 6.835557556152343
+Intra-Cluster Distance: 1.845015859603882
+
+
+
+Lattent dimension 8, 90% train, 10% validation
+--------------------------------------------------
+PCA evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.724295
+Classification Accuracy: 0.8584070796460177
+Inter-Cluster Distance: 17.23317222595215
+Intra-Cluster Distance: 2.64801105260849
+--------------------------------------------------
+UMAP evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.71145135
+Classification Accuracy: 0.8672566371681416
+Inter-Cluster Distance: 15.759411430358886
+Intra-Cluster Distance: 2.5252765655517577
+
+
+
+Lattent dimension 16, 90% train, 10% validation
+--------------------------------------------------
+PCA evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.66935676
+Classification Accuracy: 0.831858407079646
+Inter-Cluster Distance: 14.494011306762696
+Intra-Cluster Distance: 2.43195378780365
+--------------------------------------------------
+UMAP evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.6493488
+Classification Accuracy: 0.7522123893805309
+Inter-Cluster Distance: 15.317765045166016
+Intra-Cluster Distance: 2.698758053779602
+
+
+
+Lattent dimension 32, 90% train, 10% validation
+--------------------------------------------------
+PCA evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.70163935
+Classification Accuracy: 0.8584070796460177
+Inter-Cluster Distance: 14.893737983703613
+Intra-Cluster Distance: 2.3733526349067686
+--------------------------------------------------
+UMAP evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.6947151
+Classification Accuracy: 0.8761061946902655
+Inter-Cluster Distance: 17.77707862854004
+Intra-Cluster Distance: 2.4487650275230406
+
+
+
+Lattent dimension 64, 90% train, 10% validation
+--------------------------------------------------
+PCA evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.6954387
+Classification Accuracy: 0.8761061946902655
+Inter-Cluster Distance: 14.594031715393067
+Intra-Cluster Distance: 2.398172986507416
+--------------------------------------------------
+UMAP evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.6829028
+Classification Accuracy: 0.8761061946902655
+Inter-Cluster Distance: 15.805873489379882
+Intra-Cluster Distance: 2.5473618149757384
+
+
+
+Lattent dimension 96, 90% train, 10% validation
+--------------------------------------------------
+PCA evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.6649993
+Classification Accuracy: 0.831858407079646
+Inter-Cluster Distance: 13.644107437133789
+Intra-Cluster Distance: 2.233355152606964
+--------------------------------------------------
+UMAP evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.67839104
+Classification Accuracy: 0.8761061946902655
+Inter-Cluster Distance: 15.544509315490723
+Intra-Cluster Distance: 2.537381410598755
+
+
+
+Lattent dimension 128, 90% train, 10% validation
+--------------------------------------------------
+PCA evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.69031245
+Classification Accuracy: 0.8761061946902655
+Inter-Cluster Distance: 14.765033531188966
+Intra-Cluster Distance: 2.4165600419044493
+--------------------------------------------------
+UMAP evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.727488
+Classification Accuracy: 0.8761061946902655
+Inter-Cluster Distance: 17.488931274414064
+Intra-Cluster Distance: 2.4638999938964843
+
+
+
+Lattent dimension 64, 100% train, 20 epochs
+--------------------------------------------------
+PCA evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.7607912
+Classification Accuracy: 1.0
+Inter-Cluster Distance: 16.80522918701172
+Intra-Cluster Distance: 2.2419981181621553
+
+Lattent dimension 128, 100% train, 20 epochs
+--------------------------------------------------
+UMAP evaluation metrics:
+--------------------------------------------------
+Silhouette Score: 0.75952977
+Classification Accuracy: 1.0
+Inter-Cluster Distance: 16.897220802307128
+Intra-Cluster Distance: 2.2230677366256715
+
